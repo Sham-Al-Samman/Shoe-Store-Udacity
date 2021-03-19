@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="how_to_use">How to use</string>
+    <string name="instructions">- The home page contains a scrollable list of all available shoes.\n- Click the add button in the home page to add a new shoe.</string>
+    <string name="lets_go">Let\'s go!</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="shoe_details">Shoe Details</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="shoe_company">Shoe Company</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="shoe_description">Shoe Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="shoes_list">Shoes List:</string>
+    <string name="welcome">Welcome to Shoe Store App</string>
+    <string name="app_description">This app displays a list of available shoes and let you enter a new one</string>
+    <string name="next">Next</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_onboarding">Welcome Onboarding</string>
+    <string name="instruction_onboarding">Instruction Onboarding</string>
+</resources>
